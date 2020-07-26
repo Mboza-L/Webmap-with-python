@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-23T15:44:05.950000</dct:modified>
+    <dct:accrualPeriodicity>continual</dct:accrualPeriodicity>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/f39d8af3-66f9-4e6b-8764-3347a95b9bbe">
+        <dct:language>fr</dct:language>
+        <dct:title>Limites des parcs nationaux (Layer)</dct:title>
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dct:format>WMS</dct:format>
+        <dcat:accessURL rdf:resource="https://servicesweb.cartes.canada.ca/arcgis/services/PC/national_parks_boundaries_fr/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS&amp;layers=0&amp;legend_format=image/png&amp;feature_info_type=text/html"/>
+      </rdf:Description>
+    </dcat:distribution>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/bde7d98c-f58f-4ecf-985b-8976095857d7">
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dct:title>National Parks Boundaries</dct:title>
+        <dct:language>en</dct:language>
+        <dcat:accessURL rdf:resource="https://webservices.maps.canada.ca/arcgis/rest/services/PC/national_parks_boundaries_en/MapServer/0"/>
+        <dct:format>ESRI REST</dct:format>
+      </rdf:Description>
+    </dcat:distribution>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-09-26T17:11:04.792819</dct:issued>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/e1de966a-5890-4633-9765-5729e2308467">
+        <dct:language>en</dct:language>
+        <dct:title>National Parks (English)</dct:title>
+        <dcat:accessURL rdf:resource="http://ftp.maps.canada.ca/pub/pc_pc/National-parks_Parc-national/national_parks_boundaries/national_parks_boundaries_en.gdb.zip"/>
+        <dcat:mediaType>FGDB/GDB</dcat:mediaType>
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+      </rdf:Description>
+    </dcat:distribution>
+    <dct:spatial>
+      <rdf:Description rdf:nodeID="N5b6f8747455146fc9fd93a4399684d34">
+        <schema:itemtype rdf:resource="http://purl.org/dc/terms/Location"/>
+        <locn:geometry rdf:datatype="https://www.iana.org/assignments/media-types/application/vnd.geo+json">{"type": "Polygon", "coordinates": [[[-174.719307, 36.657307], [-12.393544, 36.657307], [-12.393544, 83.752522], [-174.719307, 83.752522], [-174.719307, 36.657307]]]}</locn:geometry>
+        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((-174.7193 36.6573, -12.3935 36.6573, -12.3935 83.7525, -174.7193 83.7525, -174.7193 36.6573))</locn:geometry>
+      </rdf:Description>
+    </dct:spatial>
+    <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/4aee7a6b-13cf-4a38-956d-aec626cdc54e">
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dct:title>Limites des parcs nationaux</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:accessURL rdf:resource="https://servicesweb.cartes.canada.ca/arcgis/rest/services/PC/national_parks_boundaries_fr/MapServer/0"/>
+        <dct:format>ESRI REST</dct:format>
+      </rdf:Description>
+    </dcat:distribution>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/58ef4446-b29b-4458-bbf0-27c63c7c8203">
+        <dct:format>WMS</dct:format>
+        <dcat:accessURL rdf:resource="https://webservices.maps.canada.ca/arcgis/services/PC/national_parks_boundaries_en/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS&amp;layers=0&amp;legend_format=image/png&amp;feature_info_type=text/html"/>
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dct:language>en</dct:language>
+        <dct:title>National Parks Boundaries (Layer)</dct:title>
+      </rdf:Description>
+    </dcat:distribution>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/118fb574-e426-42a7-8344-571623d91f2b">
+        <dct:language>fr</dct:language>
+        <dct:title>National Parks (French)</dct:title>
+        <dct:format>SHP</dct:format>
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcat:accessURL rdf:resource="http://ftp.cartes.canada.ca/pub/pc_pc/National-parks_Parc-national/national_parks_boundaries/limites_parcs_nationaux.shp.zip"/>
+      </rdf:Description>
+    </dcat:distribution>
+    <dct:title>National Parks</dct:title>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/576efdae-8150-4302-941c-70b6c38a6826">
+        <dct:language>fr</dct:language>
+        <dct:title>National Parks (French)</dct:title>
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dcat:mediaType>FGDB/GDB</dcat:mediaType>
+        <dcat:accessURL rdf:resource="http://ftp.cartes.canada.ca/pub/pc_pc/National-parks_Parc-national/national_parks_boundaries/national_parks_boundaries_fr.gdb.zip"/>
+      </rdf:Description>
+    </dcat:distribution>
+    <dct:identifier>e1f0c975-f40c-4313-9be2-beb951e35f4e</dct:identifier>
+    <dcat:distribution>
+      <rdf:Description rdf:about="https://open.canada.ca/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e/resource/9bf97f85-b311-45f0-8d92-f2fb71127074">
+        <schema:itemtype rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+        <dct:language>en</dct:language>
+        <dcat:accessURL rdf:resource="http://ftp.maps.canada.ca/pub/pc_pc/National-parks_Parc-national/national_parks_boundaries/national_parks_boundaries.shp.zip"/>
+        <dct:format>SHP</dct:format>
+        <dct:title>National Parks (English)</dct:title>
+      </rdf:Description>
+    </dcat:distribution>
+    <dct:publisher>
+      <rdf:Description rdf:about="https://open.canada.ca/organization/B578A1C3-FDCF-4F36-89E2-3B2E75020C43">
+        <schema:itemtype rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <foaf:name>Parks Canada | Parcs Canada</foaf:name>
+      </rdf:Description>
+    </dct:publisher>
+    <dcat:contactPoint>
+      <rdf:Description rdf:nodeID="Nc09880fe98804d7ca1e50b8950b6f37e">
+        <schema:itemtype rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+        <vcard:hasEmail>geordon.harvey@pc.gc.ca</vcard:hasEmail>
+      </rdf:Description>
+    </dcat:contactPoint>
+    <dct:description>The purpose of this feature class is to show areas that are National Parks (NPs) and National Park Reserves (NPRs). Parks Canada manages more than 43 NPs. (Seehttp://www.pc.gc.ca/progs/np-pn/recherche-search_e.asp?p=1) for a list of PCA administered parks.</dct:description>
+  </rdf:Description>
+</rdf:RDF>

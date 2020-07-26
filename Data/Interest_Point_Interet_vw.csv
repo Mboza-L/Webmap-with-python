@@ -1,0 +1,830 @@
+﻿X,Y,OBJECTID,Name_e,Nom_f,Noms_Alt_Names,Descr_e,Descr_f,min_scale_echelle,max_scale_echelle,D_Source,D_Source_Code,url_e,url_f,Principal_type
+-115.84104337319,51.2464171613266,104358,Johnston Canyon Resort,,,"cabins, store",,,,,,,,Accommodation//Dépanneur
+-115.916909462097,51.2675288705783,104359,Castle Mountain,,,cabins,,,,,,,,Accommodation//Dépanneur
+-115.728907162053,51.4191419354827,104360,Banff Trail Riders - Flints Park,,,,,,,,,,,Campground (non PCA)//Terrain de camping (non APC)
+-115.703714662386,51.2819365785523,104361,Banff Trail Riders - Mystic,,,,,,,,,,,Campground (non PCA)//Terrain de camping (non APC)
+-115.812696530404,51.2318057579347,104362,Eastbound 18,,,"Parking 9;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.812335859215,51.2313397277523,104363,Pilot Pond,,Lizard Lake,"Parking 8; Trailhead; Interp",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.78344713037,51.2231438181571,104364,Hillsdale Meadow,,,"Parking 8; Hillsdale Meadow",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.772306070572,51.2181122483718,104365,Eastbound 21,,,"Parking 9;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.763362409904,51.2148064278918,104366,Eastbound 22,,,"Parking 13; Sawback pull over",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.759887270264,51.2132223276807,104367,Eastbound 23,,,"Parking 13;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.756876239664,51.2096782885728,104368,Eastbound 24,,,"Parking 9;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.750920649572,51.2054040284304,104369,Eastbound 25,,,"Parking 10;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.749020969327,51.2030745279474,104370,Eastbound 26,,,"Parking 9;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.726193110665,51.1877549183884,104371,Eastbound 27,,,"Parking 7;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.711902550761,51.1734838979521,104372,Eastbound 31,,,"Parking 5;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.695917430057,51.168841488356,104373,Backswamp,,,"Parking10; interp",,,,,,,,Lookout/Lookoff//Belvédère
+-115.686262060019,51.1685403285743,104374,Eastbound 34,,,"Parking 7;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.669897480432,51.1701935786199,104375,Eastbound 35,,,"Parking 5;",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.667618360374,51.1714657783355,104376,Westbound 1,,,"Parking 8; Bow Valley Parkway Westbound",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.681866260373,51.1690869183779,104377,Westbound 3,,,Parking 10,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.687428229805,51.1686420080104,104378,Westbound 4,,,Parking 5,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.727469590515,51.1890445584514,104379,Westbound 5,,,Parking 9,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.737163770271,51.1927577484239,104380,Westbound 6,,,"Parking 8; Flames of Life",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.758867780597,51.2122564783603,104381,Westbound 8,,,Parking 15,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.791791650226,51.2315456682407,104382,Westbound 11,,,Parking 11,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.798592299984,51.2348928979169,104383,Westbound 12,,,Parking 17,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.835739809508,51.2424239584563,104384,Westbound 13,,,"Parking 18; opposite Johnston Canyon campground turn",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.847302900467,51.2512816182587,104385,Westbound 14,,,Parking 11,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.850158860405,51.2527899377394,104386,Westbound 15,,,Parking 7,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.85766326031,51.2556559679441,104387,Westbound 16,,,"Parking 14; near Johnston Creek Trail",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.882600600368,51.2602450581492,104388,Westbound 17,,,Parking 11,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.894940689166,51.2611301875518,104389,Westbound 18,,,Parking 13,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.922369959408,51.2714017076911,104390,Westbound 19,,,Parking 8,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.928774909673,51.2737272683074,104391,Castle Cliffs,,,"Parking 10; Interp",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.931837829693,51.2753401980732,104392,Westbound 22,,,Parking 7,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.934743079732,51.2769569774266,104393,Eastbound 64,,,Parking 10,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.92521041932,51.2718940582607,104394,Eastbound 65,,,Parking 19,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.903643700013,51.2631533275475,104395,Eastbound 66,,,Parking 12,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.899451240298,51.2617283980157,104396,Eastbound 67,,,Parking 9,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.888163419875,51.2606008676184,104397,Eastbound 68,,,Parking 10,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.880701089886,51.2595652880278,104398,Eastbound 70,,,Parking 11,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.867272029824,51.2563934077149,104399,Moose Meadows,,,Interp Parking30,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.859586569553,51.2559937578517,104400,Eastbound 72,,,Parking 10,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.659925798696,51.1705295707376,104401,5 Mile,,,Parking 10,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.874661506363,51.2578293542845,104402,AltaLink Access Road,,,No Services,,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.55929177285,51.1511894436252,104403,Rimrock Resort,,,"accommodation, food",,,,,,,,Accommodation//Dépanneur
+-115.588501491362,51.1877321284654,104404,Juniper Lodge,,,"accomodation, food",,,,,,,,Accommodation//Dépanneur
+-115.664150711707,51.0969778713714,104405,Sundance Lodge,,,"accommodation, food",,,,,,,,Accommodation//Dépanneur
+-115.574879113275,51.1443683427366,104406,Sulphur Gondola,,,"Gift shop, food, toilets, trailhead",,,,,,,,Coffee Shop//Casse-croute
+-115.536688260649,51.1989260720758,104407,Rocky Mountain Resort,,,"accommodation, food",,,,,,,,Accommodation//Dépanneur
+-115.583593204446,50.9912501165543,104408,Halfway Lodge,,,"lodge, corrals, outhouse",,,,,,,,Accommodation//Dépanneur
+-115.518886827872,50.8982222199,104409,Bryant Creek,,,,,,,,,,,Accommodation//Dépanneur
+-115.603126875701,51.3416780369432,104410,Banff Trail Riders - Stoney Creek,,,,,,,,,,,Campground (non PCA)//Terrain de camping (non APC)
+-115.588261770575,51.1970584984723,104411,Green Spot,,,5 Parking spots,,,,,,,,Lookout/Lookoff//Belvédère
+-115.537685870169,51.2119160984967,104412,Airstrip,,,"No Facilities, 5 Parking spots",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.589484525998,50.8876065675759,104413,Wonder Pass,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-115.498784031038,51.2477690184136,104414,Minnewanka Boat Ramp,,,Interp,,,,,,,,Boat Launch//Mise a l'eau pour embarcations
+-115.496967760614,51.2482205485212,104415,Minnewanka,,,Snack Bar/Coffee shop,,,,,,,,Coffee Shop//Casse-croute
+-115.488218981969,51.2357725778696,104416,Palliser,,,Interp,,,,,,,,Lookout/Lookoff//Belvédère
+-115.999087991683,51.2526463463844,104417,Storm Mountain Lodge,,,"cabins, lodge, food",,,,,,,,Accommodation//Dépanneur
+-115.89795465117,51.1083865454437,104418,Egypt Lake,,,,,,,,,,,Accommodation//Dépanneur
+-115.918786362086,51.269026289551,104419,Castle Mountain Chalets,,,"cabins, store, lodge",,,,,,,,Accommodation//Dépanneur
+-115.946121147318,51.1678226144009,104420,Shadow Lake Lodge,,,"cabins, lodge, food",,,,,,,,Accommodation//Dépanneur
+-115.824995381319,51.2264483472984,104421,Big Rock,,,"benches , parking40, outhouse4, garbage, interp",,,,,,,,Lookout/Lookoff//Belvédère
+-115.603456172744,51.1822558700348,104422,Rundle,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-115.559691257864,51.1673349148593,104423,Surprise Corner,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-115.520861772028,51.1886500174418,104424,Hoodoos,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-115.592499931772,51.1844238513752,104425,Vermilion 1,,,"Pullout, Eastbound",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.600417392447,51.1831811505362,104426,Vermilion 2,,,"Pullout, Westbound",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.604754693308,51.1814313401525,104427,Vermilion 4,,,"Pullout, Eastbound",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.627152566703,51.177077356433,104428,Vermilion 3,,,"Pullout, Eastbound, Garbage, Outhouse2, Parking6",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.666496221176,51.1652359918108,104429,Five Mile,,,"Parking20, gate in fence, garbage",,,,,,,,Interpretation Sign//Placard d'interprétation
+-115.498084057022,51.2060656383963,104430,Penstocks,,,Viewpoint,,,,,,,,Lookout/Lookoff//Belvédère
+-115.491186779335,51.2397035595452,104431,Diver's Privy,,,"Viewpoint, Outhouse",,,,,,,,Lookout/Lookoff//Belvédère
+-131.997404590248,53.2483562920842,104432,Ḵay Llnagaay Heritage Centre,Ḵay Llnagaay Centre du patrimoine,Haida Heritage Centre,"Haida cultural tourism attraction. Includes museum, carving shed, gift store, classrooms, restaurant, tours.",,,,,520,,,
+-132.069882408587,53.2535429884617,104433,Queen Charlotte Visitor Centre,Centre d'accueil Queen Charlotte,,Haida Gwaii Visitor Centre. Includes a gift shop.,,,,,,,,
+-117.926562040041,53.205292283736,104434,Pocahontas Bungalows,,,,,,,,,,,Accommodation//Dépanneur
+-117.77051352309,53.1321759846357,104435,Miette Hotsprings Bungalows,,,,,,,,,,,Accommodation//Dépanneur
+-117.995384955062,52.9194101656422,104436,Maligne Canyon Hostel,,,,,,,,,,,Accommodation//Dépanneur
+-118.088832310545,52.9165971733026,104437,Pyramid Lake Resort,,,,,,,,,,,Accommodation//Dépanneur
+-118.097963997876,52.9027555577119,104438,Patricia Lake Bungalows Main Lodge Area,,,,,,,,,,,Accommodation//Dépanneur
+-118.09728540853,52.9022746787507,104439,Patricia Lake Bungalows,,,,,,,,,,,Accommodation//Dépanneur
+-118.067500877405,52.8893702535081,104440,Pine Bungalows,,,,,,,,,,,Accommodation//Dépanneur
+-118.068180627504,52.8674609974796,104441,Tekarra Lodge,,,,,,,,,,,Accommodation//Dépanneur
+-118.077367462515,52.8602933851212,104442,Alpine Village,,,,,,,,,,,Accommodation//Dépanneur
+-118.111608089836,52.8520688127712,104443,Jasper Hostel,,,,,,,,,,,Accommodation//Dépanneur
+-118.069574667447,52.8482653821044,104444,Jasper House Bungalows,,,,,,,,,,,Accommodation//Dépanneur
+-118.059214275053,52.829563412319,104445,Becker's Bungalows,,,,,,,,,,,Accommodation//Dépanneur
+-118.059682561041,52.7036322770272,104446,HI Mount Edith Cavell Hostel,,,,,,,,,,,Accommodation//Dépanneur
+-117.876510846146,52.6607800228364,104447,Athabasca Falls Hostel,,,,,,,,,,,Accommodation//Dépanneur
+-117.642415181143,52.5372762176613,104448,Sunwapta Resort,,,,,,,,,,,Accommodation//Dépanneur
+-117.339534074177,52.3441085502646,104449,Beauty Creek Hostel,,,,,,,,,,,Accommodation//Dépanneur
+-118.057593909965,52.8860285859312,104450,Jasper Park Lodge,,,,,,,,,,,Accommodation//Dépanneur
+-117.224183789557,52.2203365093838,104451,Glacier View Inn / Icefields Centre,,,,,,,,,,,Accommodation//Dépanneur
+-118.067040851684,52.9012045770832,104452,Cemetary,,,,,,,,,,,Cemetery//Cimetière
+-117.645028281291,52.5328212897007,104453,Sunwapta Falls,,,,,,,,,,,Waterfall//Chute d'eau
+-117.286492447076,52.2672103707973,104454,Tangle Falls,,,,,,,,,,,Waterfall//Chute d'eau
+-117.884309337454,52.6649544794047,104455,Athabasca Falls,,,,,,,,,,,Waterfall//Chute d'eau
+-118.000870587952,52.9209537829639,104456,Maligne Canyon,,,,,,,,,,,Waterfall//Chute d'eau
+-118.27131431141,53.2947818771782,104457,Snake Indian Falls,,,,,,,,,,,Waterfall//Chute d'eau
+-116.336691960784,51.3563934676342,104458,Lake O'Hara Lodge, ,,Lodge - restricted vehicle access summer only,,,,,,,,Accommodation//Dépanneur
+-116.07753875052,51.5230741215206,104459,Skoki Lodge,Auberge Skoki,,Backcountry Lodge - no vehicle access,,,,,,,,Accommodation//Dépanneur
+-116.533074352144,51.5446435633609,104460,Twin Falls Chalet, ,,Backcountry lodge - summer only,,,,,,,,Accommodation//Dépanneur
+-116.888633414098,51.9182595329563,104461,Glacier Lake Horse Camp, ,,Backcountry horse camp - public access,,,,,,,,Camp//Campement
+-116.339147861888,51.3572726169291,104462,LeRelais Hut,Refuge Le Relais,,At Lake O'Hara - restricted vehicle access,,,,,,,,Coffee Shop//Casse-croute
+-116.329575135287,51.6291719643601,104463,Mosquito Hostel,Auberge HI-Mosquito,,Hostel - summer only,,,,,,,,Accommodation//Dépanneur
+-116.481110588608,51.4907801113991,104464,Whiskey Jack Hostel, ,,Hostel,,,,,,,,Accommodation//Dépanneur
+-116.067987570397,51.3489904362076,104465,Baker Creek Mountain Resort, ,,Lodge - year round,,,,,,,,Accommodation//Dépanneur
+-116.435800353698,51.4222668105714,104466,Cathedral Mountain Lodge, ,,Lodge - summer only,,,,,,,,Accommodation//Dépanneur
+-116.217578878907,51.417647313099,104467,The Fairmont Chateau Lake Louise, ,,Hotel,,,,,,,,Accommodation//Dépanneur
+-116.209542711492,51.4169814335999,104468,Deer Lodge, ,,Lodge ,,,,,,,,Accommodation//Dépanneur
+-116.539022627942,51.4402392973071,104469,Emerald Lake Lodge, ,,Lodge,,,,,,,,Accommodation//Dépanneur
+-116.182531348876,51.3275970845888,104470,Moraine Lake Lodge, ,,Lodge (summer only),,,,,,,,Accommodation//Dépanneur
+-116.466277592548,51.6785773797835,104471,Simpson's Num-Ti-Jah Lodge, ,,Lodge (summer only),,,,,,,,Accommodation//Dépanneur
+-116.196548709847,51.4160453531988,104472,Paradise Lodge & Bungalows, ,,Lodge (summer only),,,,,,,,Accommodation//Dépanneur
+-116.746473896408,51.9737387778088,104473,The Crossing Resort,Centre de villégiature The Crossing Resort,,Lodge (summer only),,,,,,,,Accommodation//Dépanneur
+-116.351126521693,51.4416350034211,104474,Great Divide Lodge, ,,Lodge (summer only),,,,,,,,Accommodation//Dépanneur
+-116.113650457737,51.4498805968849,104475,Temple Lodge, ,,Ski Area Restaurant,,,,,,,,Restaurant//Restaurant
+-116.244678923833,51.4163747172917,104476,Lake Agnes Teahouse, ,,No road access,,,,,,,,Coffee Shop//Casse-croute
+-116.272869052049,51.3935009844498,104477,Plain of Six Glaciers Teahouse, ,,No road access,,,,,,,,Coffee Shop//Casse-croute
+-116.309869385886,51.5875124056737,104478,Hector Lake Pullout, ,Hector Lake Viewpoint,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.577789207824,51.3152790538314,104479,Ottertail Viewpoint,Point à vue de Ottertail,,WB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.60909981204,51.8326961115836,104480,Waterfowl Lakes S Viewpoint, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.628482030321,51.8496565781396,104481,Waterfowl Lakes Pullout, ,,SB Viewpoint,,,,,,,,Lookout/Lookoff//Belvédère
+-116.645423023814,51.8559741549083,104482,Waterfowl Lakes N Pullout, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.512707913349,51.7412167183793,104483,Cirque Viewpoint, ,,NB parking area,,,,,,,,Lookout/Lookoff//Belvédère
+-116.885296055916,52.0560420346797,104484,Mt. Coleman Viewpoint,Point à vue,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.724201629801,51.9228305710667,104485,Mt. Sarbach Viewpoint, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-117.130683105087,52.1925013607035,104486,Hilda Creek Hostel, ,,Hostel (summer only),,,,,,,,Accommodation//Dépanneur
+-116.609348174973,51.2341942995117,104487,Mount Hunter Lookout, ,,Lookout on Mt Hunter trail. No vehicle access,,,,,,,,Lookout/Lookoff//Belvédère
+-116.644797065711,51.265697549652,104488,Upper Mount Hunter Lookout, ,,Lookout on Mt Hunter trail. No vehicle access,,,,,,,,Lookout/Lookoff//Belvédère
+-116.048143518142,50.880860508914,104489,Kootenay Crossing Interp Site, ,,PCA Highway Truck turnaround,,,,,,,,Lookout/Lookoff//Belvédère
+-115.980533919357,51.0252711384023,104490,Kootenay Park Lodge, ,,Lodge (summer only),,,,,,,,Accommodation//Dépanneur
+-115.956704419585,50.9595319583679,104491,Mt. Wardle Pullout, ,,Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.006012218031,50.9275206386041,104492,Mt. Wardle Turnaround, ,,PCA Highway Truck turnaround,,,,,,,,Lookout/Lookoff//Belvédère
+-116.05444654888,51.2257105275755,104493,Great Divide Pullout South, ,Kootenay Boundary Welcome Site,KNP Boundary Pullout with flags and welcome sign,,,,,,,,Lookout/Lookoff//Belvédère
+-116.076175958147,51.1006175779096,104494,Foster Pullout, ,,SWB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-115.993614039547,51.0306389983316,104495,Verendrye Pullout, ,,SWB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.023315908039,50.6376795392254,104496,Radium Hot Springs Welcome Sign, ,,Welcome to Radium sign - SWB,,,,,,,,Lookout/Lookoff//Belvédère
+-116.039789698298,50.6351315190299,104497,Radium Hot Pools West Pullout, ,,WB Bus pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.054379827237,50.6334706491881,104498,Sinclair Canyon Pullout North, ,,WB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.056966977997,50.6327151889631,104499,Sinclair Falls Viewpoint, ,,Pedestrian lookout at west end of Sinclair Canyon. WB side of highway,,,,,,,,Lookout/Lookoff//Belvédère
+-116.060561808264,50.6313353594954,104500,Kootenay West Gate Pullout, ,,WB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.052449388137,50.6333711491661,104501,Radium Hot Pools Hill Pullout, ,,EB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.039077318212,50.6351653795983,104502,Radium Hot Pools East Pullout, ,,EB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.376785271053,51.6548405894851,104503,Helen Creek Pullout, ,,Pullout for unofficial Helen Creek Trail,,,,,,,,Lookout/Lookoff//Belvédère
+-116.494596824207,51.7203394497774,104504,Peyto Pullout, ,,SB Pullout across from Peyto DUA Access Road,,,,,,,,Lookout/Lookoff//Belvédère
+-116.690853976817,51.8909954863785,104505,Bison Creek Pullout, ,,NB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.742277242407,51.9742657543682,104506,David Thompson Hwy Pullout 1, ,,EB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.672791256144,52.0008240743921,104507,Owen Creek Pullout, ,David Thompson Pullout 2,WBPullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.86354867824,52.0427409437209,104508,Rampart Creek Hostel, ,,Hostel (November - October) ,,,,,,,,Accommodation//Dépanneur
+-117.052592684097,52.1754114197282,104509,Big Bend Pullout 6, ,,NB Pullout - Mainly blocked off,,,,,,,,Lookout/Lookoff//Belvédère
+-117.063488581587,52.1830420880518,104510,Big Bend Pullout 1, ,,NB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-117.090923821638,52.1930025554444,104511,Parkers South Pullout, ,,NB Pullout south of Parkers Ridge,,,,,,,,Lookout/Lookoff//Belvédère
+-117.073587010639,52.1706294958919,104512,Big Bend Pullout 3, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-117.056695546911,52.1733755780116,104513,Big Bend Pullout 5, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-117.0331307877,52.1675195101588,104514,Big Bend Pullout 7, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.995087445959,52.1421198039064,104515,Cirrus Mountain Pullout, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.981826514865,52.1190570740454,104516,Alexandra River Pullout, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.972790232017,52.1124152551837,104517,Coleman Cliff Pullout, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.964500947966,52.105173965201,104518,North Saskatchewan River Pullout 1, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.940248566925,52.0876818578051,104519,North Saskatchewan River Pullout 2, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.925083941247,52.0771861189604,104520,Sunset North Pullout, ,,SB Pullout approx. 1.5 km north of Sunset Pass T/H,,,,,,,,Lookout/Lookoff//Belvédère
+-116.874192602912,52.0494696931159,104521,Rampart Pullout, ,,SB Pullout approx. 700 m north of Rampart c/g,,,,,,,,Lookout/Lookoff//Belvédère
+-116.807513950489,51.9899074679915,104522,Mt. Wilson Viewpoint, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.796870606103,51.9839358688323,104523,North Saskatchewan River Access, ,,River Access for recreational boating,,,,,,,,Boat Launch//Mise a l'eau pour embarcations
+-116.731949899667,51.9723540957271,104524,Howse River Pullout, ,,SB Pullout approx. 750 m south of Hwy 11 Jtn,,,,,,,,Lookout/Lookoff//Belvédère
+-116.712304888871,51.9519172574352,104525,Mistaya River Pullout, ,,SB Pullout ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.723566884558,51.9287199140962,104526,Icefields Parkway Pullout 10, ,,SB Pullout approx 1.5 km south of Mistaya T/H,,,,,,,,Lookout/Lookoff//Belvédère
+-116.685245643275,51.8823829164825,104527,Icefields Parkway Pullout 11, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.678722508808,51.8764281568828,104528,Icefields Parkway Pullout 12, ,,SB Pullout - old road,,,,,,,,Lookout/Lookoff//Belvédère
+-116.639121274342,51.8540157903861,104529,Waterfowl Lakes Middle PullOut, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.58142969804,51.8046138641836,104530,Silverhorn N Pullout , ,,SB Pullout - approx 500 m north of Silverhorn,,,,,,,,Lookout/Lookoff//Belvédère
+-116.550096951915,51.7712991562368,104531,Mt Patterson Pullout , ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.449976991567,51.6733490817289,104532,Bow Lake Pullout, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.371756469832,51.6530638800863,104533,Helen Creek S Pullout, ,,SB Pullout approx 400 m south of Helen Creek ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.309916770867,51.6024418746395,104534,Hector Creek Pullout, ,,SB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.310037466603,51.5839456134115,104535,Hector N Pullout 1, ,,SB Pullout 500 m North of Hector Lake T/H,,,,,,,,Lookout/Lookoff//Belvédère
+-116.146362857037,51.3978168311672,104536,Canoe Launch, ,,Canoe Access and Parking Lot for Bow River,,,,,,,,Boat Launch//Mise a l'eau pour embarcations
+-116.412655821014,51.4308277520902,104537,Field Hill Upper Pullout, ,Yoho Pullout 1,WB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.41633346056,51.4290169223002,104538,Field Hill Pullout, ,Yoho Pullout 2,WB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.426958108406,51.4266522684404,104539,Centennial Trail Parking Lot, ,Yoho Pullout 5,On Tak Falls Road,,,,,,,,Parking//Stationnement
+-116.490818996666,51.3986706510293,104540,Yoho Brothers Trading Post, ,,"Gift shop, groceries and gas",,,,,,,,Gift Shop//Boutique souvenir
+-116.628035344027,51.2264844656984,104541,West Yoho Pullout , , Yoho Pullout 6,WB Pullout approx. 1 km e of Yoho westgate,,,,,,,,Lookout/Lookoff//Belvédère
+-116.462736854535,51.4114829055385,104542,Field Flats Chainoff Area , ,Yoho Chainoff Area 1,Trucker Pullout to install/remove chains,,,,,,,,Lookout/Lookoff//Belvédère
+-116.341814310745,51.4423978016141,104543,Wapta Lake Chainoff Area, ,Yoho Chainoff Area 2,Trucker Pullout to install/remove chains,,,,,,,,Lookout/Lookoff//Belvédère
+-116.809823305926,51.8696067005173,104544,Horse camp - Outram Lake, ,,Backcountry horse camp - public access,,,,,,,,Camp//Campement
+-116.78941237508,51.8476870654303,104545,Horse camp - W Lagoon Lk trail, ,,Backcountry horse camp - public access,,,,,,,,Camp//Campement
+-116.786962828615,51.8499394472288,104546,Horse camp - NW Lagoon Lk trail, ,,Backcountry horse camp - public access,,,,,,,,Camp//Campement
+-117.055281688811,52.1768366286433,104547,Big Bend Pullout 2, ,,NB Pullout,,,,,,,,Lookout/Lookoff//Belvédère
+-116.368502004009,51.4492479115775,104548,Mt. Paget Lookout, ,,Lookout on Mt. Paget hiking trail. ,,,,,,,,Lookout/Lookoff//Belvédère
+-116.179714216957,51.4250236823214,104549,Samson Mall,,,"Mall with groceries, coffee shop, gifts, liquor",,,,,,,,Groceries / Shopping//Épicerie / Magasinage
+-116.176841466662,51.426196406565,104550,Javalanche and Mountain Restaurant,,,Restaurant and Coffee Shop,,,,,,,,Restaurant//Restaurant
+-116.181247300862,51.4267598785421,104551,Post Hotel,,Post Hotel & Spa,Hotel,,,,,,,,Accommodation//Dépanneur
+-116.176962433114,51.424136883593,104552,Mountaineer Lodge,,,Hotel,,,,,,,,Accommodation//Dépanneur
+-116.182404748688,51.4287053224819,104553,Lake Louise Inn,,,Hotel,,,,,,,,Accommodation//Dépanneur
+-116.188187877461,51.4294135491054,104554,Lake Louise Railway Station and Restaurant,,,Restaurant,,,,,,,,Restaurant//Restaurant
+-116.182662786847,51.4277796886351,104555,HI Lake Louise Alpine Centre,,HI LL Alpine Centre,Hostel,,,,,,,,Accommodation//Dépanneur
+-116.173316745862,51.4219179552612,104556,Lake Louise Tennis Courts,,,Tennis Courts as part of LL Rec Facility,,,,,,,,Tennis Court(s)//Court(s) de tennis
+-116.038818084907,50.6326561769353,104557,Place of Silence,,,Point of Interest on Redstreak trail,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-116.139870796708,51.4505109048279,104558,Whitehorn Lodge,,,Ski Area Restaurant,,,,,,,,Restaurant//Restaurant
+-116.139870796708,51.4505109048279,104559,Whiskey Jack Lodge,,,Ski Area Restaurant,,,,,,,,Restaurant//Restaurant
+-116.082192866056,51.20501260073,104560,93S Zone 3 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.102300298876,51.194214024104,104561,93S Zone 3 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.619268557753,51.8431002089726,104562,93N Zone 7 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.647091624059,51.8567758682652,104563,93N Zone 7 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.670803451269,51.8701823015361,104564,93N Zone 8 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.674038446818,51.8727303155935,104565,93N Zone 8 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.376248411106,51.6545444534613,104566,93N Zone 6 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.362423883683,51.6507102368379,104567,93N Zone 6 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.310139140031,51.6030675864651,104568,93N Zone 9 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.306323854623,51.5724232631176,104569,93N Zone 5 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.304134247925,51.5672042705039,104570,93N Zone 5 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.064016793667,51.2177842771043,104571,93S Zone 4 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-115.974532355902,51.0130235155052,104572,93S Zone 2 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-115.986107160183,50.9433854023163,104573,93S Zone 1 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.080248768898,51.2063749117263,104574,93S Zone 4 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-115.957207455231,50.9932809501394,104575,93S Zone 2 S ,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.004308796966,50.9288131253268,104576,93S Zone 1 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.782181086539,51.9801052128606,104577,93N Zone 10 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.808276966377,51.9907957427166,104578,93N Zone 10 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.868934465269,52.0461813130875,104579,93N Zone 11 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.901185875719,52.067634992355,104580,93N Zone 11 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.964035326578,52.1050701325239,104581,93N Zone 12 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.991568996654,52.1334141926049,104582,93N Zone 12 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-117.033215566333,52.1678927826211,104583,93N Zone 13 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-117.073471396469,52.1710380827822,104584,93N Zone 14 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-117.062334968002,52.1823750933285,104585,93N Zone 14 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-117.098092637637,52.1955302941661,104586,93N Zone 15 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-117.080782257769,52.1896183231564,104587,93N Zone 15 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.609257416622,51.8327671228319,104588,93N Zone 16 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.607794416972,51.8309452328003,104589,93N Zone 16 S,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-116.525562706628,51.7567921238192,104590,93N Zone 17 N,,,No Parking. Avalanche Zone,,,,,,,,Designated Area (Unspecified)//Zone désignée (non spécifié)
+-72.8263188266356,46.7698543659259,104591,Lookout long trail,Belvédère sentier longue randonnée,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8269273048654,46.7737302208631,104592,Lookout long trail,Belvédère sentier longue randonnée,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8207819492735,46.7870855817571,104593,Lookout long trail,Belvédère sentier longue randonnée,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.813259990621,46.7855021241296,104594,Lookout long trail,Belvédère sentier longue randonnée,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8092914400086,46.7828883332327,104595,Lookout long trail,Belvédère sentier longue randonnée,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8092703686215,46.7672647610122,104596,Lookout long trail,Belvédère sentier longue randonnée,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8129625384044,46.7757049698751,104597,Lookout,Belvédère,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8132632709162,46.7750717528407,104598,Belvédère,Belvédère,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8122255933029,46.7751419061298,104599,Belvédère,Belvédère,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8123630124801,46.7753065268532,104600,Belvédère sentier longue randonnée,Belvédère sentier longue randonnée,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.8129665450857,46.7756060519978,104601,Belvédère sentier longue randonnée,Belvédère 2 criques Rosoy,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.7675185615578,46.7332941290426,104602,Lookout St-Jean-Des-Piles,Belvédère Acceuil St-Jean des Piles,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.1260942680493,46.7732350977695,104603,Lookout Anticagamac,Belvédère Anticagamac,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.789267780508,46.7513377197419,104604,Lookout Baie de la Pêche,Belvédère Baie de la Pêche,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.7893432884796,46.7507722057009,104605,Picnic Site,Place de pique-nique,,,,,,,,,,Picnic Site//Place de pique-nique
+-72.8391756905466,46.7619208809012,104606,Picnic Site Bouchard,Place de pique-nique Bouchard,,,,,,,,,,Picnic Site//Place de pique-nique
+-72.8387388108805,46.7620386203024,104607,Picnic Site Bouchard,Place de pique-nique Bouchard,,,,,,,,,,Picnic Site//Place de pique-nique
+-72.8390537337239,46.7623505525955,104608,Picnic Site Bouchard,Place de pique-nique Bouchard,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.0103710330456,46.6731682804169,104609,Lookout Cascade,Belvédère Cascade,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0204702063619,46.6855379427853,104610,Lookout Iles aux pins,Belvédère Iles aux Pins,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0346526342452,46.6799507856899,104611,Picnic Site Lake Boyer,Place de pique-nique Lac Boyer,,,,,,,,,,Picnic Site//Place de pique-nique
+-72.8910021969153,46.7842439062757,104612,Lookout Lake du Fou,Belvédère Lac du Fou,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0735996490855,46.7367433785755,104613,Lookout Lake Gabet,Belvédère Lac Gabet,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0413066126711,46.6854073728502,104614,Picnic Site Lake Modène,Place de pique-nique Lac Modène,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.0474037672347,46.7535062549491,104615,Lookout Le Passage,Belvédère Le Passage,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0135442085251,46.670064576644,104616,Lookout Les Falaises - Vallerand,Belvédère Les falaises - Vallerand,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.9214391232281,46.7654724722918,104617,Canoe Rental Edouard,Location canots Edouard,,,,,,,,,,Canoe Rental//Location de canot
+-72.7963591271253,46.7546783943156,104618,Picnic Site Mékinac,Place de pique-nique Mékinac,,,,,,,,,,Picnic Site//Place de pique-nique
+-72.8001447662976,46.7704014616396,104619,Lookout Mékinac ,Belvédère Mékinac (br-lage),,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.7949359117701,46.754578971576,104620,Lookout Mékinac ,Belvédère Mékinac (St-Maurice),,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0116391819112,46.6841806056663,104621,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.014063608199,46.692635540993,104622,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0186862418421,46.6994736356944,104623,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0308566037668,46.7184248918444,104624,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0364999816842,46.7207069314533,104625,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0377498116946,46.7304247417955,104626,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0377118956738,46.7352823170045,104627,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0380444924931,46.7384629558181,104628,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0473138738078,46.7483840214618,104629,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0538936384121,46.7518312394596,104630,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0152355036248,46.6584152171568,104631,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0566839464043,46.756205457065,104632,Beach,Plage,,,,,,,,,,Beach//Plage
+-72.9243432238549,46.7607800750957,104633,Beach,Plage,,,,,,,,,,Beach//Plage
+-72.9075236129238,46.7318191668341,104634,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0065160595193,46.6720482049473,104635,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0085311855325,46.6727132794521,104636,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0072675467973,46.6759608313282,104637,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0085374066199,46.6760111290879,104638,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0048640853128,46.6782111195763,104639,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0028912145304,46.6831354582295,104640,Beach,Plage,,,,,,,,,,Beach//Plage
+-73.0132842333001,46.6917760474172,104641,Beach,Plage,,,,,,,,,,Beach//Plage
+-72.849300510414,46.7537400708249,104642,Bridge / culvert,"Pont, pont de bois ou ponceau Pimbina-Bouchard",,,,,,,,,,Bridge//Pont
+-72.8555538864203,46.7485109647697,104643,Bridge / culvert,"Pont, pont de bois ou ponceau Pimbina",,,,,,,,,,Bridge//Pont
+-73.0617935822461,46.7327011756032,104644,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 40,516)",,,,,,,,,Bridge//Pont
+-73.0565636989464,46.7245308965952,104645,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-73.042485612438,46.7121415045763,104646,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-73.0439141356993,46.6841953491485,104647,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 54,030)",,,,,,,,,Bridge//Pont
+-73.0339030561931,46.6854726402503,104648,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-73.0343089327965,46.6724842272216,104649,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 56,052)",,,,,,,,,Bridge//Pont
+-73.0208650776664,46.6668526378463,104650,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 57,530)",,,,,,,,,Bridge//Pont
+-73.0134362745543,46.6626650309865,104651,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-73.0143354544821,46.6634546117655,104652,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 58,213)",,,,,,,,,Bridge//Pont
+-73.0041978027611,46.6565374523319,104653,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-73.06349474072,46.7374637189989,104654,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 39,967)",,,,,,,,,Bridge//Pont
+-73.0043553546096,46.7622578395769,104655,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-73.0194237345625,46.7627536926394,104656,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-73.0257720465432,46.7664272063331,104657,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 29,167)",,,,,,,,,Bridge//Pont
+-73.0547469825365,46.7539373355129,104658,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 37,275)",,,,,,,,,Bridge//Pont
+-72.9963402740997,46.7643856081166,104659,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9821359901583,46.7610851238501,104660,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9662532806007,46.7571950739784,104661,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9639655178698,46.7609161637558,104662,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9546214554152,46.7669771221745,104663,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9458045350322,46.7735867490671,104664,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 19,896)",,,,,,,,,Bridge//Pont
+-72.9382461687511,46.7701659721608,104665,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9284093769894,46.7729040986173,104666,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 18,297)",,,,,,,,,Bridge//Pont
+-72.7677798622744,46.7282324553691,104667,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.778757698111,46.7400916341296,104668,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9754189238056,46.6522787967884,104669,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9670436651317,46.649430341664,104670,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.9167836284847,46.7724139994679,104671,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8949954692149,46.7749039934492,104672,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8881698535653,46.775264168052,104673,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8349823843829,46.761985584741,104674,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 8,483)",,,,,,,,,Bridge//Pont
+-72.8357334589703,46.7693884076082,104675,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.849458212534,46.7723920981817,104676,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8643990953531,46.775155860275,104677,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8815626247539,46.7740620646003,104678,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8379483199533,46.7605207615991,104679,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.79460815551,46.7507388414954,104680,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 3,888 )
+",,,,,,,,,Bridge//Pont
+-73.013141273449,46.6667907235652,104681,Cave painting,Peinture rupestre,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.924482946248,46.7643014145405,104682,Lookout Étienne,Belvédère Sentier Etienne,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.9259225257674,46.764669503628,104683,Lookout Étienne,Belvédère Sentier Etienne,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.9252464274137,46.7648822315721,104684,Lookout Étienne,Belvédère Sentier Etienne,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.9275669443004,46.7665262025897,104685,Lookout Étienne,Belvédère Sentier Etienne,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.9259450410648,46.7668117903922,104686,Lookout Étienne,Belvédère Sentier Etienne,,,,,,,,,,Lookout/Lookoff//Belvédère
+-72.9289342053193,46.7684408558715,104687,Lookout Étienne,Belvédère Sentier Etienne,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0160077826858,46.6663365044755,104688,Lookout Les falaises,Belvédère Sentier Les falaises,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0125669716688,46.6705410494333,104689,Lookout Les falaises,Belvédère Sentier Les falaises,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0162383706666,46.6732521925476,104690,Lookout Les falaises,Belvédère Sentier Les falaises,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0336213108907,46.7086602191321,104691,Lookout Vide Bouteille,Belvédère Vide Bouteille,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0055492521515,46.7863162012684,104692,Lookout Vieux brulis,Belvédère Vieux brulis,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.0424902960557,46.7705842516947,104693,Lookout Vieux brulis,Belvédère Vieux brulis ,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.1154313656284,46.7608657294491,104694,Lookout Vieux Charles,Belvédère Vieux Charles,,,,,,,,,,Lookout/Lookoff//Belvédère
+-73.1353413606014,46.766420635054,104695,Waber fall's,Chute Waber,,,,,,,,,,Waterfall//Chute d'eau
+-72.9956694212848,46.7626311993547,104696,Lake Alphonse,Lac Alphonse,,,,,,,,,,Fishing//Pêche
+-73.1214870870303,46.7878206605824,104697,Lake Anticagamac,Lac Anticagamac,,,,,,,,,,Fishing//Pêche
+-72.9657717164005,46.8203889100035,104698,Archange Lake,Lac Archange,,,,,,,,,,Fishing//Pêche
+-72.9580201492954,46.8155909023323,104699,Petit Archange Lake,Lac Petit Archange,,,,,,,,,,Fishing//Pêche
+-73.0959713953504,46.7734070538939,104700,Lake Avalon,Lac Avalon,,,,,,,,,,Fishing//Pêche
+-73.1219142832469,46.7240655318321,104701,Cobb Bay,Baie de Cobb,,,,,,,,,,Fishing//Pêche
+-73.1061228482134,46.7393686522528,104702,Onze Ile Bay,Baie des Onze Iles,,,,,,,,,,Fishing//Pêche
+-72.841691906085,46.7614684177937,104703,Lake Bouchard,Lac Bouchard,,,,,,,,,,Fishing//Pêche
+-73.0333401164708,46.6812520930866,104704,Lake Boyer,Lac Boyer,,,,,,,,,,Fishing//Pêche
+-73.0944884857851,46.7149750273767,104705,Lake Caribou,Lac du Caribou,,,,,,,,,,Fishing//Pêche
+-73.0933163332504,46.7150339488116,104706,Lake Caribou,Lac du Caribou,,,,,,,,,,Fishing//Pêche
+-72.8383215044254,46.7524089191834,104707,Lake Aux Chevaux,Lac aux Chevaux,,,,,,,,,,Fishing//Pêche
+-72.9852441132472,46.8581476754772,104708,Lake des Cinqs,Lac des Cinqs,,,,,,,,,,Fishing//Pêche
+-72.9620922816238,46.7825317409407,104709,Lake en Coeur,Lac en Coeur,,,,,,,,,,Fishing//Pêche
+-72.969896703652,46.7620722524725,104710,Lake Écarté,Lac Écarté,,,,,,,,,,Fishing//Pêche
+-72.9179069162753,46.7499182678389,104711,Lake Édouard,Lac Édouard,,,,,,,,,,Fishing//Pêche
+-72.9732921729343,46.7808264204789,104712,Lake Formont,Lac Formont,,,,,,,,,,Fishing//Pêche
+-72.8782813998627,46.7776973506912,104713,Lake du Fou,Lac du Fou,,,,,,,,,,Fishing//Pêche
+-72.9473482815836,46.794055227697,104714,Lake Giron,Lac Giron,,,,,,,,,,Fishing//Pêche
+-72.8418248427904,46.723421927261,104715,Lake Isaie,Lac Isaie,,,,,,,,,,Fishing//Pêche
+-73.1519698300528,46.7427128978262,104716,Lake Maréchal,Lac Maréchal,,,,,,,,,,Fishing//Pêche
+-72.8964520443868,46.7195266508004,104717,Lake Marie,Lac Marie,,,,,,,,,,Fishing//Pêche
+-73.0429383442793,46.6864165059934,104718,Lake Modène,Lac Modène,,,,,,,,,,Fishing//Pêche
+-72.8768638712356,46.6818348601076,104719,Lake Parker,Lac Parker,,,,,,,,,,Fishing//Pêche
+-72.8574371630759,46.6775333307075,104720,Lake à la Pêche,Lac à la Pêche,,,,,,,,,,Fishing//Pêche
+-72.8528345895872,46.7499653773102,104721,Lake Pimbina,Lac du Pimbina,,,,,,,,,,Fishing//Pêche
+-72.9285088938863,46.7788606660477,104722,Lake Soumire,Lac Soumire,,,,,,,,,,Fishing//Pêche
+-73.1543134978273,46.7622188686597,104723,Lake Waber,Lac Waber,,,,,,,,,,Fishing//Pêche
+-73.0302149296521,46.7205887616307,104724,Lake Wapizagonke,Lac Wapizagonke,,,,,,,,,,Fishing//Pêche
+-72.8101038777479,46.7560875386077,104725,Campground Rivière-à-la-Pêche,Camping Rivière-à-la-Pêche,,,,,,,,,,Camp//Campement
+-72.9951906807796,46.6647384463194,104726,Campground Mistagance,Camping Mistagance,,,,,,,,,,Camp//Campement
+-72.65895885292,46.396914812214,104727,Haut fourneau,Haut fourneau,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6572273222728,46.3982848429088,104728,Grande maison,Grande maison,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6576307091343,46.398660565727,104729,Remains of habitat and services,Vestiges du secteur habitat et services,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6576022748651,46.3983941790861,104730,Remains of habitat and services,Vestiges du secteur habitat et services,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.658244122142,46.3982087492404,104731,Remains of habitat and services,Vestiges du secteur habitat et services,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.65863813846,46.398257680966,104732,Remains of habitat and services,Vestiges du secteur habitat et services,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6587618313744,46.3980486351955,104733,Remains of habitat and services,Vestiges du secteur habitat et services,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6584288012585,46.3975114193453,104734,Vestige of the upper forge,Vestige de la forge haute,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.657147011153,46.3977709849555,104735,Remains of a mill,Vestiges d'un moulin,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6557384257129,46.3979097436888,104736,Vestiges of the lower forge,Vestiges de la forge basse,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6547538404425,46.3973996769985,104737,Fontaine du diable,Fontaine du diable,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6589467053972,46.3962384026798,104738,Bridge Vieilles forges du Saint-Maurice,Pont Vieilles forges du Saint-Maurice,,,,,,,,,,Bridge//Pont
+-72.6586203630144,46.3962465959447,104739,Bridge Vieilles forges du Saint-Maurice,Pont Vieilles forges du Saint-Maurice,,,,,,,,,,Bridge//Pont
+-72.6586672436582,46.3973498108488,104740,Bridge Vieilles forges du Saint-Maurice,Pont Vieilles forges du Saint-Maurice,,,,,,,,,,Bridge//Pont
+-72.6577274850419,46.3976877361204,104741,Bridge Vieilles forges du Saint-Maurice,Pont Vieilles forges du Saint-Maurice,,,,,,,,,,Bridge//Pont
+-72.6552214428842,46.3978161991918,104742,Bridge Vieilles forges du Saint-Maurice,Pont Vieilles forges du Saint-Maurice,,,,,,,,,,Bridge//Pont
+-73.278501244242,45.4483662914926,104743,Cemetery Fort Chambly,Cimetière Fort Chambly,,,,,,,,,,Cemetery//Cimetière
+-73.2768932000306,45.4494906067645,104744,Fort Chambly,Fort Chambly,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2750217640981,45.449164153551,104745,Picnic Site Fort Chambly,Place de pique-nique Fort Chambly,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.278267486536,45.4481810147366,104746,Bridge Fort Chambly,Pont Fort Chambly,,,,,,,,,,Bridge//Pont
+-73.268062772168,45.1209103311945,104747,Fort Lennox,Fort Lennox,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2685084504932,45.1213473588884,104748,Barrack Fort Lennox,Caserne Fort Lennox,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2680141930854,45.1219878639335,104749,Powder Fort Lennox,Poudrière Fort Lennox,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2676332249671,45.1214926677229,104750,Officers's Quarters Fort Lennox,Logis des officiers Fort Lennox,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2672336391234,45.1212415629975,104751,Guard House Fort Lennox,Corps de garde Fort Lennox,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2671905018579,45.1208423851349,104752,Stewardship Store Fort Lennox,Magasin d'intendance Fort Lennox,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2676452486391,45.1205700550343,104753,Artillery Store Fort Lennox,Magasin d'artillerie Fort Lennox,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.2645817114607,45.1229597501388,104754,Picnic Site Fort Lennox,Place de pique-nique,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.2679022308738,45.1210187342854,104755,Picnic Site Fort Lennox,Place de pique-nique,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.2670270980232,45.1216617366621,104756,Bridge Fort Lennox,Pont Fort Lennox,,,,,,,,,,Bridge//Pont
+-73.2690170389719,45.1202775346802,104757,Bridge Fort Lennox,Pont Fort Lennox,,,,,,,,,,Bridge//Pont
+-74.1772608583707,45.2882042182482,104758,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1775402925688,45.287811250578,104759,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1764707997996,45.2873555553241,104760,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1759861920674,45.2877085626687,104761,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1762143880981,45.2873774796551,104762,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1757539664952,45.2876521165593,104763,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1753331402363,45.2875721267515,104764,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.175999086576,45.2879124053854,104765,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1755280216602,45.2875594086812,104766,Blockhaus Fort Coteau-du-Lac,Blockhaus Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.9468793654921,45.6455324661212,104767,Granary Manoir Papineau,Hangar à grains Manoir Papineau,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.9454969205673,45.6456066527626,104768,Tea Pavilion Manoir Papineau,Pavillon de thé Manoir Papineau,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.9456299373325,45.6459964119313,104769,Manor House Manoir Papineau,Manoir ségneurial Manoir Papineau,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.9444361192836,45.6481835119405,104770,Funeral Chapel and Cemetery Manoir Papineau,Chapelle funéraire et cimetière Manoir Papineau,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.9461452618488,45.6459975313391,104771,Family Museum (Anglican Church) Manoir Papineau,Musée familial (Chapelle anglicane) Manoir Papineau,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-79.461835762755,47.2879755987813,104772,Store Fort Témiscamingue,Magasin Fort Témiscamingue,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-79.4616974714628,47.2882851832135,104773,Dairy Fort Témiscamingue,Laiterie Fort Témiscamingue,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-79.4619968886027,47.2888295721339,104774,Carpentry Workshop Fort Témiscamingue,Atelier de menuiserie Fort Témiscamingue,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-79.4617698928852,47.288909288416,104775,Blacksmith's Fort Témiscamingue,La forge Fort Témiscamingue,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-79.4591510623628,47.2893214800734,104776,Canoe Workshop Fort Témiscamingue,Atelier de canot Fort Témiscamingue,,,,,,,,,,Canoeing//Canot
+-79.4588951883771,47.2894302515459,104777,Ancestor's Court Fort Témiscamingue,Cour des ancêtres Fort Témiscamingue,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-79.4613581060057,47.2888714621051,104778,Protestant Cemetery Fort Témiscamingue,Cimetière protestant Fort Témiscamingue,,,,,,,,,,Cemetery//Cimetière
+-79.46069862772,47.289148468926,104779,Burials Area Fort Témiscamingue,Aire de sépultures Fort Témiscamingue,,,,,,,,,,Cemetery//Cimetière
+-79.4609003059553,47.2894394888894,104780,Catholic Cemetery Fort Témiscamingue,Cimetière catholique Fort Témiscamingue,,,,,,,,,,Cemetery//Cimetière
+-71.8261825185986,45.242074409629,104781,General Store Maison Louis S.St-Laurent,Magasin général Maison Louis S.St-Laurent,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-71.8261745688474,45.242234137897,104782,Birth home Maison Louis S.St-Laurent,Maison natale Maison Louis S.St-Laurent,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.7577670570037,45.8525441440879,104783,Robinette's house (Laurier) Maison Sir Wilfrid Laurier,Maison Robinette (Laurier) Maison Sir Wilfrid Laurier,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.7578451969948,45.8527484847712,104784,Picnic Site Maison Sir Wilfrid Laurier,Place de pique-nique Maison Sir Wilfrid Laurier,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.6755337482098,45.4314377461677,104785,Warehouse Commerce de fourrures Lachine,Entrepôt Commerce de fourrures Lachine,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.3718121714383,45.5650284172343,104786,Caserne Carillon,Caserne Carillon,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.5516817689976,45.5111502978115,104787,Maison George-Étienne Cartier,Maison George-Étienne Cartier,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-73.5522202362701,45.509935168964,104788,Maison Papineau,Maison Papineau,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.6575550799131,46.3982391609335,104789,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6554955628539,46.3979769276293,104790,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6557457355056,46.3980624536673,104791,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6569474592617,46.398203681919,104792,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6580043284552,46.3985665965833,104793,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.658740487242,46.3988100624965,104794,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6600400669763,46.3976710297777,104795,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.659546637314,46.3971805678406,104796,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6593449533294,46.3972099756505,104797,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6586306540259,46.3967400489118,104798,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6588243202262,46.3977783017247,104799,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6585724869753,46.3979326234066,104800,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6584136567196,46.3980604813112,104801,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6583008096046,46.3979903030588,104802,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6577512822156,46.3980997613099,104803,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.6560042591325,46.3977665768262,104804,Interpretation Sign Vieilles Forges du Saint-Maurice,Placard d'interprétation Vieilles Forges du Saint-Maurice,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-72.9187515757406,46.765993509661,104805,Swimming,Baignade,,,,,,,,,,Swimming//Baignade
+-72.8873478862761,46.7770879910265,104806,Picnic Site,Place de pique-nique,,,,,,,,,,Picnic Site//Place de pique-nique
+-74.1772878213847,45.288260094057,104807,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1772068217419,45.2882240941726,104808,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1772688216151,45.2881530935254,104809,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1773458219432,45.2881890943868,104810,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1773208222409,45.2879770936432,104811,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1775448213508,45.287871094058,104812,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1774728210447,45.2878170941045,104813,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.177556821858,45.2877550941851,104814,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1776318212949,45.2878020939444,104815,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1777878217193,45.28733809416,104816,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1778068213178,45.287318093865,104817,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1764618210253,45.2876940938324,104818,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1764748218982,45.2880620942277,104819,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1765078212339,45.288253093946,104820,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1762118213181,45.2879300940145,104821,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1760008216992,45.2877190938114,104822,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1759598214786,45.2879390935989,104823,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1762208212615,45.2873770934888,104824,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1764958207422,45.2871830938487,104825,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.176194821445,45.2872300939415,104826,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1754848214075,45.2879620943476,104827,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1755698210231,45.2877710943744,104828,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1756998216307,45.287669093886,104829,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1758518214168,45.2874100939647,104830,Remains Fort Coteau-du-Lac,Vestiges Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1752068209198,45.2874470942997,104831,Cannon Fort Coteau-du-Lac,Canon Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1751778204711,45.2874530935935,104832,Cannon Fort Coteau-du-Lac,Canon Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1749548213666,45.2874770940642,104833,Cannon Fort Coteau-du-Lac,Canon Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-74.1748158214006,45.2874570936647,104834,Cannon Fort Coteau-du-Lac,Canon Fort Coteau-du-Lac,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-72.9918678804418,46.7626002324811,104835,Pique-Nique - Lac Alphonse,Pique-Nique - Lac Alphonse,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.0337015088277,46.7086954289286,104836,Pique-Nique - Vide Bouteille,Pique-Nique - Vide Bouteille,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.0149430228011,46.6584758102878,104837,Pique-Nique - Esker,Pique-Nique - Esker,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.0059233818215,46.6720496714249,104838,Pique-Nique - Lac Édouard,Pique-Nique - Shewenegan,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.0541982775632,46.7508056689234,104839,Terrain Pique-Nique - Wapizagonke Nord,Terrain Pique-Nique - Wapizagonke Nord,,,,,,,,,,Picnic Site//Place de pique-nique
+-72.9204508820477,46.766207416061,104840,Pique-Nique - Lac Édouard,Pique-Nique - Lac Édouard,,,,,,,,,,Picnic Site//Place de pique-nique
+-73.0689265422715,46.7480836953993,104841,Bridge / culvert,"Pont, pont de bois ou ponceau","Ponceau Route Promenade (Km 38,706)
+",,,,,,,,,Bridge//Pont
+-73.0262835071701,46.7147927009976,104842,Beach,Plage,,,,,,,,,,Beach//Plage
+-72.8659016217669,46.6753647644374,104843,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8647203237289,46.6778215171433,104844,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8661341238703,46.6950550185388,104845,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8481977981712,46.712031192471,104846,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8459179700303,46.7237156075933,104847,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-72.8332467416802,46.7368987744827,104848,Bridge / culvert,"Pont, pont de bois ou ponceau",,,,,,,,,,Bridge//Pont
+-118.110478090121,51.0809920701641,104849,Eva Lake Cabin,,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-118.153458135191,51.0250876940457,104850,Caribou,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-57.8597894540343,49.6506639787901,104851,Bakers Brook Hut,Cabane du Bakers Brook,Bakers Brook Ski Cabin,Secluded backcountry ski huts ,Refuges de ski hors-piste isolés,,,,,,,
+-57.9331128635869,49.4214138359298,104852,Southwest Gulch Hut,Cabane du sud-ouest de Gulch,Southwest Gulch Ski Cabin,Secluded backcountry ski huts ,Refuges de ski hors-piste isolés,,,,,,,
+-62.7969040581362,58.4510599849089,104853,Torngat Mountains Base Camp,Camp de base des Monts-Torngat,,,,,,,,,,Accommodation//Dépanneur
+-57.3858237633817,50.7157778338656,104854,Phillip’s Garden,Phillip’s Garden,,Palaeo-Eskimo Habitation Site ,Site de l’habitation paléo-esquimaude de Phillip’s Garden,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-57.4103856741242,50.6975512881009,104855,French Shore Treaty Plaque,Monument du traité « French Shore »,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-57.4080946465216,50.698328458284,104856,,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-57.3599579877842,50.7077393876259,104857,Maritime Archaic Cemetery ,Lieu de sépulture des Indiens de l’Archaïque maritime ,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-57.3580441373937,50.7245212395358,104858,Barbace Site ,Site Barbace,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-57.7986182276889,49.5823846259962,104859,Gros Morne Mountain Viewing Platform,Plate-forme d’observation au pied de Gros Morne,,,,,,,,,,Lookout/Lookoff//Belvédère
+-57.9440262274991,49.4960124508487,104860,,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-57.960978898038,49.4807481353398,104861,,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-57.9319279156901,49.6235015229116,104862,,,,,,,,,,,,
+-58.1168264796705,49.4607483941849,104863,Trout River Pond,Étang Trout River,,,,,,,,,,Parking//Stationnement
+-58.0771441648415,49.4904660700085,104864,Green Gardens,Green Gardens,,,,,,,,,,Parking//Stationnement
+-58.0400234008529,49.4952146644361,104865,Wallace's Brook,Ruisseau Wallace,,,,,,,,,,Parking//Stationnement
+-57.9742406075833,49.4781924005627,104866,Tablelands,Tablelands,,,,,,,,,,Parking//Stationnement
+-57.960978898038,49.4807481353398,104867,,,,,,,,,,,,Parking//Stationnement
+-57.633856228224,49.4530628928114,104868,,,,,,,,,,,,Parking//Stationnement
+-57.6597841486262,49.4633852178269,104869,,,,,,,,,,,,Parking//Stationnement
+-57.8318074870209,49.5594599303067,104870,,,,,,,,,,,,Parking//Stationnement
+-57.832289721005,49.5655872899102,104871,,,,,,,,,,,,Parking//Stationnement
+-57.9301523445143,49.6242485465956,104872,,,,,,,,,,,,Parking//Stationnement
+-57.9551709619786,49.6553507784042,104873,,,,,,,,,,,,Parking//Stationnement
+-57.9557495957588,49.656578471046,104874,,,,,,,,,,,,Parking//Stationnement
+-57.9611092861818,49.6825809281261,104875,,,,,,,,,,,,Parking//Stationnement
+-57.8994540604297,49.7722510472718,104876,,,,,,,,,,,,Parking//Stationnement
+-57.8745644480625,49.7874173135004,104877,,,,,,,,,,,,Parking//Stationnement
+-57.8603728740052,49.8359372267148,104878,,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-57.9568530131786,49.6353038798655,104879,,,,,,,,,,,,Parking//Stationnement
+-86.4311353241966,48.719959493801,104880,Hawkins Island Lighthouse,,Peninsula Harbour Lighthouse,,,,,CanVec Data 042D,BS_1250009_0,,,Lighthouse//Phare
+-86.9961112689639,48.6223266990605,104881,Slate Island Lighthouse,,,Lighthouse and residence,,,,CanVec Data 042D,BS_1250009_0,,,Lighthouse//Phare
+-87.5561318910472,48.7520715497101,104882,Battle Island Lighthouse,,,Lighthouse and residence,,,,CanVec Data 042D,BS_1250009_0,,,Lighthouse//Phare
+-88.875690862455,48.2918408416543,104883,Trowbridge Island,,,Lighthouse and residence,,,,Aerial photography,2016360053500,,,Lighthouse//Phare
+-88.6478657634977,48.339973895528,104884,Porphyry Point Lighthouse,,,Lighthouse,,,,Aerial photography,2016375053550,,,Lighthouse//Phare
+-88.4804837952575,48.4360099033993,104885,Island No. 10 Lighthouse,,,Lighthouse and residence,,,,Aerial photography,2016390053650,,,Lighthouse//Phare
+-88.9378608611669,48.3020615273324,104886,Thunder Cape Lighthouse,,,Foundation only,,,,Aerial photography,2016355053500,,,Lighthouse//Phare
+-88.1436532503144,48.6020552279946,104887,Lamb Island Lighthouse,,,Lighthouse and residence,,,,Aerial photography,2016415053800,,,Lighthouse//Phare
+-87.9429948014843,48.7005904906436,104888,Talbot Island Lighthouse,,,Foundation only,,,,Aerial photography,2016425053900,,,Lighthouse//Phare
+-88.2641958422776,48.9560789033637,104889,Lloyd's Lookout,,,Located on the Nipigon River Recreation Trail,,,,GPS coordinates,,,,Lookout/Lookoff//Belvédère
+-88.272892848109,48.9725709052875,104890,Eagle's Ridge Lookout,,,Located on the Nipigon River Recreation Trail,,,,GPS coordinates,,,,Lookout/Lookoff//Belvédère
+-88.2582309268187,49.0091410584108,104891,Nipigon Marina Parking Lot,,,,,,,Aerial photography,2016405054250,,,Parking//Stationnement
+-88.2628908422747,48.9591229038428,104892,Big Red Chair - Nipigon River Recreation Trail,,,,,,,GPS coordinates,,,,Lookout/Lookoff//Belvédère
+-88.268529643521,48.9467895420036,104893,Parking - Nipigon River Recreation Trail at Red Rock,,,,,,,GPS coordinates,,,,Parking//Stationnement
+-87.4488663863296,48.8391775041522,104894,Big Red Chair - Rossport Trail,,,,,,,GPS coordinates,,,,Lookout/Lookoff//Belvédère
+-87.4435308482321,48.8380006636285,104895,Parking - East end of Rossport Trail,,,,,,,Aerial photography,2016465054050,,,Parking//Stationnement
+-87.508080193917,48.8358834988054,104896,Parking - West end of Rossport Trail,,,,,,,Aerial photography,2016460054050,,,Parking//Stationnement
+-88.4877656695417,48.8248195973237,104897,Parking - Hurkett Cove Trail,,,,,,,Aerial photography,2016390054050,,,Parking//Stationnement
+-88.487802590264,48.8254562317517,104898,Picnic Area - Hurkett Cove,,,,,,,Aerial photography,2016390054050,,,Picnic Site//Place de pique-nique
+-87.2892708094606,48.7941028435733,104899,"Parking - Schreiber Beach
+Schreiber Beach",,,,,,,Aerial photography,Google maps,,,Parking//Stationnement
+-87.2910390756804,48.793979031706,104900,Schreiber Beach,Plage Schreiber,,,,,,Aerial photography,Google maps,,,Beach//Plage
+-87.1159463743035,48.7709909058398,104901,Terrace Bay Beach,Plage Terrace Bay,,,,,,Aerial photography,Google maps,,,Beach//Plage
+-88.8234298897342,48.4754284444894,104902,Thunder Bay Lookout,,,Within Sleeping Giant Provincial Park,,,,CanVec data 052A,LX_1000019_0,,,Lookout/Lookoff//Belvédère
+-89.279775363902,48.347277349489,104903,Mount McKay Scenic Lookout,,,,,,,CanVec data 052A,LX_1000019_0,,,Lookout/Lookoff//Belvédère
+-88.7476474717542,48.5574813525057,104904,,,,,,,,CanVec data 052A,LX_1000019_2,,,Lookout/Lookoff//Belvédère
+-88.754432421018,48.5496535521472,104905,,,,,,,,CanVec data 052A,LX_1000019_2,,,Lookout/Lookoff//Belvédère
+-89.2026576110709,48.4710701816747,104906,The Bluffs,,,,,,,CanVec data 052A,LX_1000019_2,,,Lookout/Lookoff//Belvédère
+-89.1690445071157,48.4834687002851,104907,Terry Fox Lookout,,,,,,,CanVec data 052A,LX_1000019_2,,,Lookout/Lookoff//Belvédère
+-89.2338956605363,48.4351066627757,104908,Hillcrest Park,,,,,,,CanVec data 052A,LX_1000019_2,,,Lookout/Lookoff//Belvédère
+-87.1236222540894,48.7825166572423,104909,Aguasabon Falls & Gorge,,,,,,,CanVec data 042D,HD_1460009_0,,,Waterfall//Chute d'eau
+-87.2944670813062,48.7953554070268,104910,Big Red Chair - West of Schreiber Beach,,,,,,,GPS coordinates,,,,Lookout/Lookoff//Belvédère
+-89.6049134452521,48.3789849650375,104911,Kakabeka Falls,,,,,,,CanVec data 052A,HD_1460009_0,,,Waterfall//Chute d'eau
+-88.257856426766,49.011101520642,104912,Nipigon Marina,,,,,,,,,,,Marina//Marina
+-88.2577606254121,49.0105675999458,104913,Nipigon Marina Campground,,,,,,,Google maps,,,,Campground (non PCA)//Terrain de camping (non APC)
+-88.2591686223946,49.0101037703809,104914,A Walk Thru The Country,,,,,,,Google maps,,,,Gift Shop//Boutique souvenir
+-88.9312013524194,48.2725152930613,104915,Nettie,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.9227665504783,48.2287898100603,104916,Leafield,,,"249 feet in length, a bulk freighter carrying steel rails, wrecked Nov. 9, 1913 in a fierce northerly gale",,,,NMCA files,,,,Shipwreck//Épave
+-88.9247726299678,48.2108590626358,104917,Maggie McRae,,,"139 feet in length, Maggie McRae was a schooner that sank in ice May 30, 1888 under the tow of the tug BRUNO bound for Kingston; no loss of life",,,,NMCA files,,,,Shipwreck//Épave
+-88.8742320157125,48.2988462434301,104918,Theano,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.7662820763654,48.3308669221268,104919,Kakabeka,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.7320542672924,48.3454766312591,104920,McLeod,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.6323654236898,48.3426582618195,104921,A. Neff,,,Raised,,,,NMCA files,,,,Shipwreck//Épave
+-88.6023113823688,48.3953380785357,104922,Anne Ruth,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.5651828413531,48.3492820862451,104923,Scotiadoc,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.4774040121123,48.4467903687988,104924,Emerson,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.4662516834987,48.4106942962595,104925,St. Andrew,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.3306954544368,48.4800549516986,104926,D&C,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.1275859736246,48.6619613567789,104927,Neebing,,,Approximate location - diveable shipwreck,,,,NMCA files,,,,Shipwreck//Épave
+-87.8995261640337,48.6910393137523,104928,Mary Ann Hulbert,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.1561494661562,48.9103265024987,104929,Imperial,,,,,,,NMCA files,,,,Shipwreck//Épave
+-87.8108265035217,48.9098250632983,104930,Mary McLachlan,,,Approximate location - diveable shipwreck,,,,NMCA files,,,,Shipwreck//Épave
+-87.3660561363912,48.7829618884149,104931,Gunilda,,,Approximate location - diveable shipwreck,,,,NMCA files,,,,Shipwreck//Épave
+-87.5321320209521,48.7502013716767,104932,Ontario,,,Approximate location - diveable shipwreck,,,,NMCA files,,,,Shipwreck//Épave
+-86.9605121227498,48.8117681542241,104933,Rappahannock,,,Approximate location - diveable shipwreck,,,,NMCA files,,,,Shipwreck//Épave
+-87.4048489626994,48.3300568143767,104934,Cerisoles,,,,,,,NMCA files,,,,Shipwreck//Épave
+-87.5041439041863,48.3296644701266,104935,Bannockburn,,,,,,,NMCA files,,,,Shipwreck//Épave
+-87.4527747969088,48.2869281440291,104936,Inkermann,,,,,,,NMCA files,,,,Shipwreck//Épave
+-87.8510039949876,48.1439732393834,104937,Ferdinand Schlesinger,,,,,,,NMCA files,,,,Shipwreck//Épave
+-87.2416826789334,47.9167839294162,104938,Arlington,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.12110232655,48.2985761602834,104939,Ottawa,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.2511857182116,48.4688060301758,104940,Sovereign,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.1659016896437,48.2859990454709,104941,Prindoc,,,,,,,NMCA files,,,,Shipwreck//Épave
+-88.2567326968653,49.0162786237355,104942,Cliffside Cemetery,,,Nipigon,,,,CanVec data 052H,1000039_2 ,,,Cemetery//Cimetière
+-88.2481970590761,49.0370847354422,104943,,,,North of the Red Rock Indian Band Reserve,,,,CanVec data 052H,1000039_2,,,Cemetery//Cimetière
+-88.5613769857492,48.7899616376601,104944,St. Isidore Roman Catholic Church,,,Dorion,,,,CanVec data 052A,1000039_2,,,Cemetery//Cimetière
+-88.5658830627871,48.8242308058465,104945,Mountainside Cemetery,,,Dorion,,,,CanVec data 052A,1000039_2,,,Cemetery//Cimetière
+-89.3185657296961,48.3531237925628,104946,Mountainview and St. Patrick's Cemetery,,,"Thunder Bay, Broadway Avenue",,,,CanVec data 052A,1000039_2,,,Cemetery//Cimetière
+-89.2561121888268,48.4277928345145,104947,St. Andrew's Catholic Cemetery & Our Lady of Charity Mausoleum,,,"Thunder Bay, Oliver Road",,,,CanVec data 052A,1000039_2,,,Cemetery//Cimetière
+-87.1050432972585,48.7919669491855,104948,Terrace Bay Cemetery,,,Terrace Bay,,,,CanVec data 042D,1000039_2,,,Cemetery//Cimetière
+-87.2615462310948,48.8090206299995,104949,Schreiber Cemetary,,,Schreiber,,,,CanVec data 042D,1000039_2,,,Cemetery//Cimetière
+-112.822770330362,53.6786727759453,104950,Trail Sign AW_S1,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.819059683864,53.6775964989547,104951,Trail Sign AW_S2,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.81516011785,53.6731787842419,104952,Trail Sign AW_S3,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.812013391099,53.6859289511978,104953,Trail Sign BP_TS1,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.806030018382,53.6876644621486,104954,Trail Sign BP_TS2,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.857440188534,53.6334874258179,104955,Trail sign HB_TS1,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.849752728644,53.6278709619061,104956,Trail Sign HB_TS2,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.849757060688,53.6241670689378,104957,Trail Sign HB_TS3,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.852549844599,53.6244025514218,104958,Trail Sign HB_TS4,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.849381683729,53.6152369337794,104959,Trail Sign HB_TS5,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.84047888996,53.606600090309,104960,Trail Sign HB_TS6,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.838249179695,53.6022473089135,104961,Trail Sign HB_TS7,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.81124001625,53.6071901485897,104962,Trail Sign HB_TS9,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.818522072362,53.6144873152515,104963,Trail Sign HB_TS10,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.842735189152,53.6219650138705,104964,Trail Sign HB_TS11,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.831885273729,53.6835499586097,104965,Trail Sign LV_TS1,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.832148711886,53.6547336717669,104966,Trail sign ML_TS1,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.827835218313,53.6361817200429,104967,Trail Sign ML_TS2,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.874846112158,53.6180590205947,104968,Trail sign TW_TS1,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.863508574631,53.5964895283145,104969,Trail Sign TW_TS2,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.868623686994,53.5887772753491,104970,Trail Sign TW_TS3,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.880149530653,53.5870144290441,104971,Trail Sign TW_TS4,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.89417829235,53.5885371492879,104972,Trail Sign TW_TS5,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.906601324317,53.5922953755893,104973,Trail Sign TW_TS6,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.913362447425,53.5991277032821,104974,Trail Sign TW_TS7,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.91853773125,53.605940149346,104975,Trail Sign TW_TS8,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.91763354042,53.6120049126721,104976,Trail Sign TW_TS9,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.922805438606,53.6243460737044,104977,Trail Sign TW_TS10,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.922788285683,53.6246340290127,104978,Trail Sign TW_TS11,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.910556119168,53.6219981199862,104979,Trail Sign TW_TS12,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.897212567688,53.6201697140135,104980,Trail Sign TW_TS13,,,,,,,,,,,Interpretation Sign//Placard d'interprétation
+-112.831215003364,53.6774478447846,104981,Sandy Beach,,,,,,,,,,,Beach//Plage
+-112.797570124586,53.5670718908963,104982,Ukranian Village,,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-112.828060479946,53.672591737412,104983,Restaurant,,,,,,,,,,,Restaurant//Restaurant
+-112.829125285944,53.6774276712365,104984,Parking,,,,,,,,,,,Parking//Stationnement
+-112.829634379565,53.6794678859961,104985,Parking,,,,,,,,,,,Parking//Stationnement
+-112.830753709966,53.6817199814607,104986,Parking,,,,,,,,,,,Parking//Stationnement
+-112.827785185359,53.6736803995226,104987,Parking,,,,,,,,,,,Parking//Stationnement
+-112.827590192092,53.6730625550406,104988,Parking,,,,,,,,,,,Parking//Stationnement
+-112.837461017024,53.5790815683285,104989,Parking,,,,,,,,,,,Parking//Stationnement
+-112.828496143545,53.6725862606338,104990,Golf Course,,,,,,,,,,,Golf Course//Cours de golf
+-112.873380066383,53.6177227863221,104991,Viewpoint,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-112.83230302941,53.6737868663049,104992,Viewpoint,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-112.840839343415,53.6715553261742,104993,Viewpoint,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-112.870358464061,53.6675900239611,104994,Viewpoint,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-112.832667275232,53.6790561331352,104995,Sailing,,,,,,,,,,,Sailing//Voile
+-112.832379016488,53.6790605445364,104996,Canoeing,,,,,,,,,,,Canoeing//Canot
+-112.832090758064,53.6790649560649,104997,Kayaking,,,,,,,,,,,Kayaking//Kayak
+-112.822887094754,53.6787845649666,104998,Parking,,,,,,,,,,,Parking//Stationnement
+-112.812249713406,53.6859484581311,104999,Parking,,,,,,,,,,,Parking//Stationnement
+-112.87024977334,53.6674124212784,105000,Parking,,,,,,,,,,,Parking//Stationnement
+-112.835072372146,53.6571819380084,105001,Parking,,,,,,,,,,,Parking//Stationnement
+-112.85742308705,53.6336699421985,105002,Parking,,,,,,,,,,,Parking//Stationnement
+-112.859027289623,53.629197096712,105003,Parking,,,,,,,,,,,Parking//Stationnement
+-112.874917110016,53.618269347412,105004,Parking,,,,,,,,,,,Parking//Stationnement
+-112.846320216407,53.5698341232735,105005,Parking,,,,,,,,,,,Parking//Stationnement
+-112.816730442452,53.6762474416056,105006,Bridge AW_B1,,,,,,,,,,,Bridge//Pont
+-112.819428238546,53.6731499587043,105007,Bridge AW_B3,,,,,,,,,,,Bridge//Pont
+-112.814262330611,53.6755387158163,105008,Bridge AW_B4,,,,,,,,,,,Bridge//Pont
+-112.811182831194,53.684925676648,105009,Bridge BP_B1,,,,,,,,,,,Bridge//Pont
+-112.807088441501,53.6872709261993,105010,Bridge BP_B2,,,,,,,,,,,Bridge//Pont
+-112.833080196297,53.6842148945754,105011,Bridge LV_B1,,,,,,,,,,,Bridge//Pont
+-112.833435682875,53.6843802576461,105012,Bridge LV_B2,,,,,,,,,,,Bridge//Pont
+-112.8340252058,53.6847038504701,105013,Bridge LV_B3,,,,,,,,,,,Bridge//Pont
+-112.834481560257,53.684750798554,105014,Bridge LV_B4,,,,,,,,,,,Bridge//Pont
+-112.82980087912,53.6529356642423,105015,Bridge ML_B1,,,,,,,,,,,Bridge//Pont
+-112.80375088445,53.6435501693099,105016,Bridge ML_B2,,,,,,,,,,,Bridge//Pont
+-112.870374198186,53.6253209323013,105017,Bridge SIM_B1,,,,,,,,,,,Bridge//Pont
+-112.847012316455,53.5332223991303,105018,Bridge WB_B1,,,,,,,,,,,Bridge//Pont
+-112.85505475818,53.5673766591725,105019,Bridge WB_B2,,,,,,,,,,,Bridge//Pont
+-112.863927438473,53.561718852938,105020,Bridge WB_B1,,,,,,,,,,,Bridge//Pont
+-112.866357543906,53.557581516458,105021,Bridge WB_B2,,,,,,,,,,,Bridge//Pont
+-112.86299303185,53.5555752778528,105022,Bridge WB_B3,,,,,,,,,,,Bridge//Pont
+-112.865915711085,53.5506301602612,105023,Bridge WB_B4,,,,,,,,,,,Bridge//Pont
+-112.864585522996,53.5464705626957,105024,Bridge WB_B5,,,,,,,,,,,Bridge//Pont
+-112.866398893439,53.5458309489546,105025,Bridge WB_B6,,,,,,,,,,,Bridge//Pont
+-112.829693935211,53.6754741047138,105026,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-112.831365672963,53.6765275996989,105027,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-112.831565158938,53.6811247234359,105028,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-112.827083185784,53.6782958071381,105029,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-112.824664323177,53.6770667432792,105030,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-112.830719523479,53.6798680239672,105031,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-112.831459148708,53.6806708805173,105032,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-112.832637496576,53.6812439507002,105033,Picnic Site,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.066890758834,53.934018848007,105034,Bottle Recycling,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.067989730683,53.9350263014612,105035,Bottle Recycling,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.070440017459,53.9342099658586,105036,Bottle Recycling,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.074344035882,53.9043656703414,105037,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.073450420846,53.9034864731405,105038,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.065705424931,53.6401949337202,105039,Garbage Bin - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.067141756972,53.6387934422202,105040,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.066402575387,53.6400803366347,105041,Garbage Bin - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.065847600268,53.6405473888503,105042,Garbage Bin - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.068673936217,53.637894581248,105043,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.072550873702,53.9262334423206,105044,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.075492703151,53.9285272198742,105045,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.075349019909,53.9279587462992,105046,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.072165309358,53.927401038056,105047,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.073683311574,53.9290885101111,105048,Garbage Bin - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.064689091122,53.9346433878763,105049,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.062969934209,53.9339394561931,105050,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.06962219224,53.9352071515935,105051,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.068022953495,53.93502307871,105052,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.070351284899,53.9342417176396,105053,Garbage Bin - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.066842187384,53.9340103332485,105054,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.063152505534,53.9353568150838,105055,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.064770070953,53.9362226144381,105056,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.063312946645,53.9374499081477,105057,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.06950415715,53.9385284030092,105058,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.065131094908,53.9385395590038,105059,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.068685256138,53.9408318108673,105060,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.067217702859,53.93999392007,105061,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.047891415786,53.8383938776218,105062,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.293428086726,53.9793043433353,105063,Garbage Bin - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.292896489,53.980689870966,105064,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.294923747778,53.9797233739084,105065,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.295904729249,53.9803695549979,105066,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.292498849432,53.981224830345,105067,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.295622875742,53.9805654935371,105068,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.291548846851,53.9808933352731,105069,Garbage Bin - Large,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.047791447141,53.8382974416291,105070,Picnic Shelter,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.048233008459,53.8379160713621,105071,Picnic Table 01,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.048149607243,53.8381137108745,105072,Picnic Table 02,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.047766967709,53.8381831115004,105073,Picnic Table 03,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.047462878822,53.8383754012757,105074,Picnic Table 04,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.047106476893,53.8384399412905,105075,Picnic Table 05,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.047439408105,53.8384917405424,105076,Garbage - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.047982386893,53.8383616507898,105077,Recycle - Small,,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-106.068828721343,53.9363373953342,105078,Parking,,,,,,,,,,,Parking//Stationnement
+-106.069603741467,53.9405392824468,105079,Parking,,,,,,,,,,,Parking//Stationnement
+-106.069065609846,53.9399917989439,105080,Parking,,,,,,,,,,,Parking//Stationnement
+-106.068336918865,53.9407096198171,105081,Parking,,,,,,,,,,,Parking//Stationnement
+-106.066336576609,53.640835142172,105082,Boat Launch,,,,,,,,,,,Boat Launch//Mise a l'eau pour embarcations
+-106.066500685867,53.6403694520358,105083,Picnic Table 01,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.068284867278,53.6382949216916,105084,Picnic Table 10,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.066305807325,53.6401992914097,105085,Picnic Table 02,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.066721638038,53.639743571302,105086,Picnic Table 03,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.06715782695,53.6393646209465,105087,Picnic Table 04,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.067281467219,53.6392171921019,105088,Picnic Table 05,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.06752797684,53.6393507914621,105089,Picnic Table 06,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.067839786126,53.6388714322906,105090,Picnic Table 07,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.067898626812,53.6388613712959,105091,Picnic Table 08,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.067984116765,53.6387589510446,105092,Picnic Table 09,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.290691003511,53.9792259143991,105093,Narrows,,,,,,,,,,,Marina//Marina
+-106.163361046506,53.9788308374205,105094,Birch Bay,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.158652328357,53.8990383275078,105095,South Bay,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.087768851293,54.0867722394428,105096,Big Island,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.251159578098,54.0336003866047,105097,Crean Kitchen,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.463513912716,54.1499411847703,105098,Grey Owl's Cabin,,,,,,,,,,,Historic Point of Interest//Leiu d'intérêt historique
+-106.426221482499,54.0377377169361,105099,Southend,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.415049496706,54.0257478655099,105100,Kingsmere,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.416336128658,54.0256321142318,105101,Kingsmere River,,,,,,,,,,,Boat Launch//Mise a l'eau pour embarcations
+-106.236317303066,53.9569428405114,105102,Paignton Beach,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.185527796003,53.9223846051703,105103,King Island,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.183736168445,53.9084326386881,105104,Trippes Beach,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.04692427761,53.8387111843953,105105,Namekus Lake,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.082163459875,53.9237815835453,105106,Waskesiu Picnic Area,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.050999881556,53.6104851844378,105107,Meridian,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.0538963191,53.5855147161975,105108,South Gate Picnic Area,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.612234102822,53.6444575636614,105109,Sturgeon Lookout,,,,,,,,,,,Lookout/Lookoff//Belvédère
+-106.721762281453,53.709832409455,105110,Valleyview,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.173159077651,53.9799927510084,105111,Heart Lakes Marina,,,,,,,,,,,Marina//Marina
+-106.099096988526,53.9558231403973,105112,Point View,,,,,,,,,,,Picnic Site//Place de pique-nique
+-106.090037719306,53.952858543923,105113,Waskesiu Marina,,,,,,,,,,,Marina//Marina
+-65.2218962615683,44.4369764376185,105114,FIRST LOOKOFF,PREMIER BELVÉDÈRE,,,,,,,,,,Lookout/Lookoff//Belvédère
+-65.2358371923229,44.4339329807391,105115,FORTH LOOKOFF,BELVÉDÈRE DE QUATRIÈME,,,,,,,,,,Lookout/Lookoff//Belvédère
+-65.228855007443,44.4359891893484,105116,SECOND LOOKOFF,DEUXIÈME BELVÉDÈRE,,,,,,,,,,Lookout/Lookoff//Belvédère
+-65.2315703575576,44.4352309799322,105117,THIRD LOOKOFF,TROISIÈME BELVÉDÈRE,,,,,,,,,,Lookout/Lookoff//Belvédère
+-65.2198934487753,44.4011121285182,105118,KEJI OUTFITTERS,KEJI OUTFITTERS,,,,,,,,,,Canoe Rental//Location de canot
+-65.2532652049094,44.4421226450902,105119,BIG DAM PARKING LOT,STATIONNEMENT DE LAC BIG DAM ,,,,,,,,,,Parking//Stationnement
+-65.2069752673912,44.3846731581947,105120,GRAFTON LAKE PARKING LOT,STATIONNEMENT DU LAC GRAFTON ,,,,,,,,,,Parking//Stationnement
+-65.2163067228507,44.3950309057355,105121,LOOKOFF,BELVÉDÈRE,,,,,,,,,,Lookout/Lookoff//Belvédère
+-65.2490887161903,44.4003929758046,105122,SLAPFOOT BEACH,PLAGE SLAPFOOT,,,,,,,,,,Beach//Plage
+-65.2069048252975,44.3839471835914,105123,MERRYMAKEDGE BEACH,PLAGE MERRYMAKEDGE,,,,,,,,,,Beach//Plage
+-65.2319235605808,44.3984759043726,105124,KEDGE BEACH,PLAGE KEDGE,,,,,,,,,,Beach//Plage
+-65.254171314672,44.4051517859699,105125,MEADOW BEACH,PLAGE MEADOW,,,,,,,,,,Beach//Plage
+-65.2196133274159,44.3991798394699,105126,JAKES LANDING PARKING LOT,STATIONNEMENT DU JAKES LANDING,,,,,,,,,,Parking//Stationnement
+-65.2338963436991,44.3988693501218,105127,KEDGE BEACH PARKING LOT,STATIONNEMENT DU PLAGE KEDGE,,,,,,,,,,Parking//Stationnement
+-65.2482303795312,44.4058365286605,105128,PARKING LOT P1,STATIONNEMENT P1,,,,,,,,,,Parking//Stationnement
+-65.2162211120401,44.4379824228081,105129,MILL FALLS PARKING LOT,STATIONNEMENT MILL FALLS,,,,,,,,,,Parking//Stationnement
+-65.2083012931396,44.4385268899015,105130,VISITOR CENTRE PARKING LOT,STATIONNEMENT DU CENTRE D'ACCUEIL,,,,,,,,,,Parking//Stationnement
+-65.2034529891034,44.3834837600157,105131,GRAFTON LAKE PARKING LOT,STATIONNEMENT DU LAC GRAFTON,,,,,,,,,,Parking//Stationnement
+-65.2071951553406,44.3846513480503,105132,MERRYMAKEDGE PARKING LOT P4,STATIONNEMENT DU MERRYMAKEDGE P4,,,,,,,,,,Parking//Stationnement
+-65.2092613719872,44.3847712207903,105133,MERRYMAKEDGE PARKING LOT P3,STATIONNEMENT DU MERRYMAKEDGE P3,,,,,,,,,,Parking//Stationnement
+-65.2109709576268,44.3851885582388,105134,MERRYMAKEDGE PARKING LOT P2,STATIONNEMENT DU MERRYMAKEDGE P2,,,,,,,,,,Parking//Stationnement
+-65.2140926413985,44.3880058768983,105135,MERRYMAKEDGE PARKING LOT P1,STATIONNEMENT DU MERRYMAKEDGE P1,,,,,,,,,,Parking//Stationnement
+-65.254162787884,44.4052128101185,105136,MEADOW BEACH PARKING,STATIONNEMENT DU PLAGE MEADOW,,,,,,,,,,Parking//Stationnement
+-65.2449711441936,44.405512197431,105137,PARKING LOT P2,STATIONNEMENT P2,,,,,,,,,,Parking//Stationnement
+-65.2260951920067,44.4153002216047,105138,FARMLANDS TRAIL PARKING LOT,STATIONNEMENT DU SENTIER FARMLANDS,,,,,,,,,,Parking//Stationnement
+-65.2455344276066,44.4181235593574,105139,MERSEY RIVER PARKING LOT,STATIONNEMENT DU RIVIÈRE MERSEY,,,,,,,,,,Parking//Stationnement
+-65.2478642482527,44.4284641140214,105140,FLOWING WATERS PARKING,STATIONNEMENT DU SENTIER FLOWING WATERS,,,,,,,,,,Parking//Stationnement
+-65.2520170066266,44.4067288726984,105141,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2544035979493,44.405517408585,105142,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.251069040644,44.4048091751376,105143,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2512141971056,44.4032554859653,105144,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2524337886924,44.4021927897362,105145,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2510497330337,44.4024706861604,105146,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2513155893441,44.4017176454528,105147,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2493888441058,44.4047421997168,105148,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2494381075904,44.4035978653361,105149,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2483669459911,44.4020432357881,105150,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2482126579251,44.4025191389973,105151,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2471009286076,44.4028087136835,105152,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2419546613081,44.4040299659432,105153,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2404702721806,44.4034309934284,105154,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2406187706689,44.4025892684852,105155,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2406420684249,44.4014792273175,105156,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2333447255258,44.3966860564072,105157,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2537721591971,44.4238725108054,105158,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2157431560745,44.4383703732186,105159,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2085991591683,44.4382544458878,105160,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.203533911445,44.3826969427229,105161,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2080141818969,44.384630517339,105162,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-65.2413951660935,44.4081896393907,105163,RECYCLING,RECYCLAGE,,,,,,,,,,Recycle / Garbage//Recyclage / Poubelles
+-64.8455035157234,43.8309838465526,105164,LOOKOUT,BELVÉDÈRE,,,,,,,,,,Lookout/Lookoff//Belvédère
+-64.8482395215583,43.8247970252624,105165,LOOKOUT,BELVÉDÈRE,,,,,,,,,,Lookout/Lookoff//Belvédère
+-64.840855664203,43.8292520155351,105166,LOOKOUT,BELVÉDÈRE,,,,,,,,,,Lookout/Lookoff//Belvédère
+-63.5538147608971,44.5966326510054,105167,PARKING,STATIONNEMENT,,,,,,,,,,Parking//Stationnement
+-63.5804833050851,44.6474034507862,105168,HALIFAX CITADEL COFFEE BAR,CASSE-CROUTE DE LA CITADELLE D'HALIFAX,,,,,,,,,,Coffee Shop//Casse-croute
+-63.5804331445197,44.6473762724488,105169,HALIFAX CITADEL REGIMENTAL GIFT SHOP,BOUTIQUE DE REGIMENT DE LA CITADELLE D'HALIFAX,,,,,,,,,,Gift Shop//Boutique souvenir
+-63.5805748013584,44.6468814875753,105170,WEST DITCH PARKING LOT,STATIONNEMENT DE FOSSÉ OUEST,,,,,,,,,,Parking//Stationnement
+-65.1955842446152,44.4345240827643,105171,WARDEN OFFICE PARKING,STATIONNEMENT DE WARDEN,,,,,,,,,,Parking//Stationnement
+-65.2217075643255,44.4367128972695,105172,FIRST LOOKOFF PARKING LOT,STATIONNEMENT DE BELVÉDÈRE,,,,,,,,,,Parking//Stationnement
+-65.228972686238,44.4358788961956,105173,SECOND LOOKOFF PARKING LOT,STATIONNEMENT DE BELVÉDÈRE,,,,,,,,,,Parking//Stationnement
+-65.2316192455073,44.4351324181829,105174,THIRD LOOKOFF PARKING AREA,STATIONNEMENT DE BELVÉDÈRE,,,,,,,,,,Parking//Stationnement
+-65.2356793908173,44.4339287411419,105175,FOURTH LOOKOFF PARKING AREA,STATIONNEMENT DE BELVÉDÈRE,,,,,,,,,,Parking//Stationnement
+-65.2555026212057,44.4230320871463,105176,J-LINE PARKING LOT,STATIONNEMENT,,,,,,,,,,Parking//Stationnement
+-73.6774540662117,45.4317138139216,105177,Bridge Commerce de fourrures Lachine,Pont Commerce de fourrures Lachine,,,,,,,,,,Bridge//Pont
+-73.6752674981793,45.4315837266761,105178,Bridge Commerce de fourrures Lachine,Pont Commerce de fourrures Lachine,,,,,,,,,,Bridge//Pont
+-73.6709816037229,45.4311705630104,105179,Bridge Commerce de fourrures Lachine,Pont Commerce de fourrures Lachine,,,,,,,,,,Bridge//Pont
+-73.6705653047233,45.4313460238672,105180,Bridge Commerce de fourrures Lachine,Pont Commerce de fourrures Lachine,,,,,,,,,,Bridge//Pont
+-73.6695953053703,45.4313794059512,105181,Bridge Commerce de fourrures Lachine,Pont Commerce de fourrures Lachine,,,,,,,,,,Bridge//Pont
+-73.6693288269742,45.4310954163459,105182,Bridge Commerce de fourrures Lachine,Pont Commerce de fourrures Lachine,,,,,,,,,,Bridge//Pont
+-122.879407920782,69.1372830610873,105183,La Ronciere Falls,,,,,,,,,,,Waterfall//Chute d'eau
